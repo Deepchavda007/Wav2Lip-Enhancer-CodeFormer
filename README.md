@@ -1,6 +1,6 @@
 # Wav2Lip_CodeFormer
 
-[![Open In Colab](https://colab.research.google.com/drive/1ZDo1GhLQyoUm7ou-H5qX__iS_0B3bu3k#scrollTo=tfXGjVvlxRVS)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZDo1GhLQyoUm7ou-H5qX__iS_0B3bu3k#scrollTo=tfXGjVvlxRVS)
 
 Combine Lip Sync AI and Face Restoration AI to get ultra high quality videos.
 
