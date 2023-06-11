@@ -5,7 +5,8 @@
 Combine Lip Sync AI and Face Restoration AI to get ultra high quality videos.
 
 Demo Result Video:
-[![Demo Video]([(https://drive.google.com/file/d/1NiMHUtyjKvGyc1JUkADz6FiBCt4l_biT/view?usp=sharing))]([https://youtu.be/jArkTgAMA4g](https://drive.google.com/file/d/1oaoIW0dRZkaKUmpfuHvHH4WAgKY170Go/view?usp=sharing))
+
+[![Demo Video]![0000](https://github.com/Deepchavda007/Wav2Lip_CodeFormer/assets/82630272/ea1cf212-3228-4af5-ab69-2414e356134b)](https://youtu.be/jArkTgAMA4g)(https://drive.google.com/file/d/1oaoIW0dRZkaKUmpfuHvHH4WAgKY170Go/view)
 
 Projects referred:
 1. https://github.com/Rudrabha/Wav2Lip
