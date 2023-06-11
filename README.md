@@ -4,7 +4,7 @@
 
 Combine Lip Sync AI and Face Restoration AI to get ultra high quality videos.
 
-Demo Result Video:![0000](https://github.com/Deepchavda007/Wav2Lip_CodeFormer/assets/82630272/5d83f12c-6489-4957-91b1-31bc795aee65)
+Demo Result Video:![0000]
 
 
 https://github.com/Deepchavda007/Wav2Lip_CodeFormer/assets/82630272/0e595976-0d4a-498e-b6ba-d427e6f97001
